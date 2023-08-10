@@ -1,0 +1,1 @@
+Make sure you setup a 32bit ODBC connection to this DB under the name 'AdvancedTraining'
